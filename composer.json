@@ -1,0 +1,12 @@
+{
+    "name": "danmatthews/laravel-data-views",
+    "description": "Description",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dan Matthews",
+            "email": "dan@danmatthews.me"
+        }
+    ],
+    "require": {}
+}
